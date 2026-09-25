@@ -1,2 +1,5 @@
-# tidewell
-Tidewell — a public well that turns with the hour. Sign in, write, pin what the room can see.
+# Tidewell
+
+A small public well. Sign in, write slips, mark them public if they belong on the wall. The edition turns every hour.
+
+Live source: this repo. Data: Supabase.

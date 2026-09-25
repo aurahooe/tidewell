@@ -1,0 +1,7 @@
+{
+  "name": "tidewell",
+  "private": true,
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
